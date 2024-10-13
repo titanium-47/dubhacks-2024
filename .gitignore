@@ -1,0 +1,18 @@
+node_modules
+.env
+.vercel
+
+# Shipped by Lens Studio
+Cache/**
+PluginsUserPreferences/**
+Support/**
+BackUp/**
+.vscode/**
+jsconfig.json
+tsconfig.json
+.DS_Store
+# Shipped by Lens Studio
+
+
+env.ts
+node_modules
